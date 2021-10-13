@@ -1,0 +1,26 @@
+body{
+     display: flex; 
+     flex-direction: column;
+     align-items: center;
+    background-image: url(https://st.depositphotos.com/1435765/1406/v/600/depositphotos_14068114-stock-illustration-pizza-seamless-pattern.jpg);
+}
+h1{
+    color: rgb(216, 9, 50);
+ }
+ img{
+     width: 400px;
+ }
+ #thirdDiv{
+     height: 600px;
+     width: 500px;
+     background-color: rgb(224, 219, 139) ;
+     padding: 50px;
+     border: solid black;
+ }
+ #spanId{
+     font-size: 18px;
+     margin: 50px;
+ }
+ .divClass{
+     text-align: center;
+ } 
